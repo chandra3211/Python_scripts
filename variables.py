@@ -30,7 +30,20 @@ print(x,y)
 a,b,c=10,20,30
 print(a,b,c)
 10 20 30
-
+sequence assignment: Any sequence of names can be assigned to any sequence of values and python assign the value at a time by postition.
+a,b,c='hai'
+print(a)
+h
+print(b)
+a
+print(c)
+i
+extended sequence unpacking:
+p,*q="Hello"
+print(p)
+H
+print(*q)
+['e','l','l','o']  
 below are the conditions to write variables:
 1. A variable name must start with a letter or underscore character(a-z) (_).
 2. A variable name cant start with number.
