@@ -14,6 +14,20 @@ print(b)
 output:
 5
 5
+
+Tuple Assignment:
+x,y=(50,100)
+print(x)
+50
+print(y)
+100
+
+List Assignment:
+x,y=[100,200]
+print(x)
+100
+print(y)
+200
 below are the conditions to write variables:
 1. A variable name must start with a letter or underscore character(a-z) (_).
 2. A variable name cant start with number.
