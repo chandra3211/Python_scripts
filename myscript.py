@@ -24,10 +24,13 @@ print(y)
 
 List Assignment:
 x,y=[100,200]
-print(x)
-100
-print(y)
-200
+print(x,y)
+100 200
+
+a,b,c=10,20,30
+print(a,b,c)
+10 20 30
+
 below are the conditions to write variables:
 1. A variable name must start with a letter or underscore character(a-z) (_).
 2. A variable name cant start with number.
